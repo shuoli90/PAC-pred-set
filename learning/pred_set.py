@@ -120,7 +120,7 @@ class PredSetConstructor(BaseLearner):
             logp_i = self.mdl(x, y)
             logp.append(logp_i)
         logp = tc.cat(logp)
-        logp = logp[:n]
+        logp = logp[:int(n)]
         logp_sorted = logp.sort(descending=False)[0]
         T_opt = -logp_sorted[error_perm]
 

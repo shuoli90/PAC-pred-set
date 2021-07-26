@@ -1,0 +1,5 @@
+Instance Created
+## construct a prediction set: n = 33901, eps = 1.00e-01, delta = 1.00e-01
+error_permissive = 3318, T_opt = 119.57944828565073
+
+[test: with KF, n = 33901, eps = 1.00e-01, delta = 1.00e-01, T = 119.5794] error = 0.0979, min = 0.0, 1st-Q = 1.9609482018129183e+21, median = 6.368076374696905e+27, 3rd-Q = 2.097386071548891e+36, max = inf, mean = inf
