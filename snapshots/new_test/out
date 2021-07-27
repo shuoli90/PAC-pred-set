@@ -1,5 +1,0 @@
-Instance Created
-## construct a prediction set: n = 34926, eps = 1.00e-01, delta = 1.00e-01
-error_permissive = 3420, T_opt = 23.726456111757145
-
-[test: test set, n = 34926, eps = 1.00e-01, delta = 1.00e-01, T = 23.7265] error = 0.0979, min = 4988838.5, 1st-Q = 4988838.5, median = 4988838.5, 3rd-Q = 4988838.5, max = 4988838.5, mean = 4988839.00

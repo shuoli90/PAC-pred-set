@@ -1,5 +1,6 @@
 Instance Created
-## construct a prediction set: n = 34926, eps = 1.00e-01, delta = 1.00e-05
-error_permissive = 3255, T_opt = 23.73044193492325
+## construct a prediction set: n = 42715, eps = 1.00e-01, delta = 1.00e-05
+error_permissive = 4008, T_opt = 23.75070686252201
 
-[test: without KF, n = 34926, eps = 1.00e-01, delta = 1.00e-05, T = 23.7304] error = 0.1794, min = 5804042.5, 1st-Q = 5804042.5, median = 5804042.5, 3rd-Q = 5804042.5, max = 5804042.5, mean = 5804042.00
+testing points: 21307
+[test: without KF, n = 42715, eps = 1.00e-01, delta = 1.00e-05, T = 23.7507] error = 0.0636, min = 10902461.0, 1st-Q = 10902461.0, median = 10902461.0, 3rd-Q = 10902461.0, max = 10902461.0, mean = 10902462.00
